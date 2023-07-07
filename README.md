@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Bartosz 👋
+
+You may want to:
+* Check my [portfolio](https://www.github.com/maleckibartosz/portfolio)
+* Contact me via [email](mailto:bartosz.malecki@icloud.com)
 
 <!--
 **maleckibartosz/maleckibartosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
