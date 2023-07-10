@@ -1,4 +1,4 @@
-### Hi there, I'm Bartosz 👋
+### Hi there, I'm Bartek 👋
 
 You may want to:
 * Check my [portfolio](https://www.github.com/maleckibartosz/portfolio)
